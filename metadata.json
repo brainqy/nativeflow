@@ -1,0 +1,11 @@
+{
+  "name": "Remix Advanced Voice Dialogue Simulator",
+  "description": "Simulate natural, fluent native-speaker voice conversations on advanced topics for language learners with real-time audio and fluency feedback.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
